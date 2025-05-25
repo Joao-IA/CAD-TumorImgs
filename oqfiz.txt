@@ -1,0 +1,3 @@
+fiz uma implementação inicial do código com ajudinha (gpt) rsrs
+
+NÃO CONSEGUI EXECUTAR PRA TESTAR PQ É UM TRAMPO FODIDO RODAR NA MINHA MÁQUINA
