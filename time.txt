@@ -10,6 +10,20 @@ tempo anotado pelo CUDA:
 Tempo total de execução para 1578 imagens: 7.44244141 segundos.
 Média por imagem: 4.71637583 ms.
 
-tempo anotado pelo Sequencial:
-Tempo total de execução para 1578 imagens: 306.597 segundos.
+Tempo anotado pelo Sequencial (5 testes):
+1. Tempo total de execução para 1578 imagens: 306.597 segundos.
 Média por imagem: 189.16 ms
+
+2. Tempo total de execução para 1578 imagens: 257.971628 s
+Média por imagem: 163.48012 ms
+
+3. Tempo total de execução para 1578 imagens: 263.731997 s
+Média por imagem: 167.13054 ms
+
+4. Tempo total de execução para 1578 imagens: 295.201482 s
+Média por imagem: 187.07318 ms
+
+5. Tempo total de execução para 1578 imagens: 288.618511 s
+Média por imagem: 182.90146 ms
+
+TEMPO MÉDIO SEQUENCIAL: 282.424124 segundos.
