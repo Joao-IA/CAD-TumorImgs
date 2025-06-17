@@ -41,8 +41,8 @@ def reconstruct_image(out_vec: np.ndarray, w: int, h: int, warp_size: int = HOST
     return norm.astype(np.uint8)
 
 def main():
-    base_dir   = r"C:\Users\muril\OneDrive\Documentos\GitHub\CAD-TumorImgs\dataset_busi_drive\Dataset_BUSI_with_GT"
-    output_dir = r"C:\Users\muril\OneDrive\Documentos\GitHub\CAD-TumorImgs\output_results_seq"
+    base_dir   = "/dataset_busi_drive/Dataset_BUSI_with_GT"
+    output_dir = "/output_results_seq"
     os.makedirs(output_dir, exist_ok=True)
 
     total_calc_time = 0.0
