@@ -27,3 +27,18 @@ Média por imagem: 187.07318 ms
 Média por imagem: 182.90146 ms
 
 TEMPO MÉDIO SEQUENCIAL: 282.424124 segundos.
+
+
+Tempo anotado pelo KMeans paralelo:
+Total de pontos carregados: 15223074 (dim=1)
+Convergiu em 64 iteracoes.
+
+--- Desempenho da Execução ---
+Tempo total do K-Means (GPU): 5000.46 ms (5.00 s)
+------------------------------
+
+Centroides Finais:
+K=2: 18.356775 1.751254 
+K=3: 25.493361 12.381300 0.909780 
+K=4: 8.562356 0.480159 29.404846 17.212891 
+K=5: 13.106600 6.539515 0.289847 30.839085 20.034349 
