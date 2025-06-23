@@ -1,0 +1,13 @@
+Para o cálculo de speedup do nosso trabalho, serão analisados os seguintes tempos:
+
+1 - O tempo paralelo em CUDA comparado com o tempo Sequencial:
+Tempo de execução do kernel em CUDA: 7,44s
+Tempo de execução do kernel Sequencial: 282,42s
+
+Speedup: 282,42 / 7,44 = ~37,95
+
+2 - O tempo paralelo em OpenMP comparado com o tempo Sequencial:
+Tempo de execução do kernel em OpenMP: 55,825s
+Tempo de execução do kernel Sequencial: 282,42s
+
+Speedup: 282,42 / 55,825 = ~5,06
